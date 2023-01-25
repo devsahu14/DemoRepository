@@ -1,0 +1,2 @@
+This is the just a sample file made to understand the use of git and applying certain basic commands of git
+Edited by dev Sahu
